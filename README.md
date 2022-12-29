@@ -1,7 +1,8 @@
 # Audio-to-sign-language-converter
 
 This project converts English Audio to American Sign Language and provides output in the form of a video.
-A Person provides his Input in the form of Audio or text and the hearing impaired person receives the output in the form of a video.
+
+Use case: A Person who doesn't know sign language can communicate with a hearing impaired person using his audio. 
 
 Technologies such as Android studio IDE, Java, Google Speech API are the core ingredients for this system.  
 
