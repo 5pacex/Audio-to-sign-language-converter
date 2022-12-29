@@ -7,6 +7,7 @@ Use case: A Person who doesn't know sign language can communicate with a hearing
 Technologies such as Android studio IDE, Java, Google Speech API are the core ingredients for this system.  
 
 How it Works?
+
 •	Take Audio as input using Android Speech Recognizer.
 •	Convert the audio into text using Google Speech API.
 •	The Sentence will check against an online database and it will be converted to sign language. 
