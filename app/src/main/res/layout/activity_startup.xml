@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DisplayActivity"
+    android:background="#ffffff">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <RelativeLayout
+
+            android:id="@+id/linearLayout2"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:background="#212121">
+
+            <ImageButton
+                android:id="@+id/Gobackbutton"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+
+                android:contentDescription="TODO"
+
+                android:background="@android:drawable/ic_menu_revert" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/imagedisplay"
+            android:layout_width="141dp"
+            android:layout_height="256dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/frame_001" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
