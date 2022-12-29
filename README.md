@@ -1,6 +1,6 @@
 # Audio-to-sign-language-converter
 
-This project converts English Audio to American Sign Language and provides output in the form of a video.
+An Android app that converts English Audio to American Sign Language and provides output in the form of a video.
 
 Use case: A Person who doesn't know sign language can communicate with a hearing impaired person using his audio. 
 
